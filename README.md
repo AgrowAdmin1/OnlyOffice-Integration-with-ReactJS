@@ -10,5 +10,6 @@ ONLYOFFICE provides a document server that allows you to edit documents, spreads
 
 npm install @onlyoffice/document-editor
 
-**Clone the repository using the following command:**
+# Clone the repository
+https://github.com/AgrowAdmin1/OnlyOffice-Integration-with-ReactJS.git
 
